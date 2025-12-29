@@ -1,0 +1,23 @@
+# Data files (don't commit large files)
+data/raw/
+data/parquet/
+*.db
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

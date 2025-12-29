@@ -13,8 +13,8 @@ A professional database system for managing bulk RNA-seq and scRNA-seq data.
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/seqdb.git
-cd seqdb
+git clone https://github.com/gynecoloji/seqdb_project.git
+cd seqdb_project
 
 # Install in development mode
 pip install -e .
